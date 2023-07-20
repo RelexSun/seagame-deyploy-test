@@ -1,0 +1,2 @@
+When you work on your section (main)
+please change or remove the class name view100 from the main tag!!!
